@@ -8,3 +8,6 @@ node_modules
 cdk.out
 
 .idea/
+
+# not ignore
+!lib/stores/*
